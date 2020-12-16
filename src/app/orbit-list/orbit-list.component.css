@@ -7,6 +7,10 @@
     background-color: #da8a8a;
 }
 
+.alternate {
+    background-color: #53bec2;
+}
+
 table {
   color: #111;
   border-radius: 5px;
